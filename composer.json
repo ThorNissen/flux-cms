@@ -1,0 +1,18 @@
+{
+    "name": "thornissen/flux-cms",
+    "description": "FluxCMS",
+    "require": {
+        "filament/filament": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "ThorNissen\\FluxCms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thor Nissen",
+            "email": "thorjnissen@gmail.com"
+        }
+    ]
+}
